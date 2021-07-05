@@ -1,2 +1,3 @@
-# intro-go
-My answers exercises from Introducing Go by Caleb Doxsey
+# Introducing Go Answers
+
+My answers for exercises from Introducing Go by Caleb Doxsey.
